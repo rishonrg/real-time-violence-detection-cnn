@@ -1,0 +1,44 @@
+# Virtual Environment
+.venv/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+*.pb
+saved_model/
+
+# Training logs
+logs/
+runs/
+wandb/
+
+# Dataset & Videos
+dataset/
+data/
+videos/
+*.mp4
+*.avi
+*.mov
+
+# Generated outputs
+outputs/
+predictions/
+results/
+
+# Environment variables / secrets
+.env
