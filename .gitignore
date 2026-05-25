@@ -28,12 +28,6 @@ runs/
 wandb/
 
 # Dataset & Videos
-dataset/
-data/
-videos/
-*.mp4
-*.avi
-*.mov
 
 # Generated outputs
 outputs/
